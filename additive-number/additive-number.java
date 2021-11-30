@@ -8,7 +8,7 @@ class Solution {
         // num = "121474836472147483648";
         long iTmp1, iTmp2;
         int maxLen = num.length();
-        String sTmp = "";
+        String sTmp = ""; 
 
         // 첫번째 인자를 구한다.
         for (int i = 1; i <= maxLen / 2; i++) {
